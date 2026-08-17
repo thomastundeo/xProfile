@@ -1,4 +1,4 @@
-## Thomas Tunde, O X Clone Profile Page
+## Thomas Tunde, O x Profile Page
 
 ![Profile Page Preview](images/xprofile.png)
 
