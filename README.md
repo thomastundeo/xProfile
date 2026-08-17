@@ -1,4 +1,7 @@
-# Twitter/X Clone Profile Page
+## Thomas Tunde, O X Clone Profile Page
+
+![Profile Page Preview](images/xprofile.png)
+
 
 A responsive Twitter/X clone profile page built with HTML, CSS, and JavaScript.
 
@@ -6,10 +9,6 @@ A responsive Twitter/X clone profile page built with HTML, CSS, and JavaScript.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Preview
-
-![Profile Page Preview](images/xprofile.png)
-*Add your screenshot here showing the profile page interface*
 
 ## Description
 
