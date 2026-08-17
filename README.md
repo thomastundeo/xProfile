@@ -8,7 +8,7 @@ A responsive Twitter/X clone profile page built with HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Profile Page Preview](xprofile.png)
+![Profile Page Preview](images/xprofile.png)
 *Add your screenshot here showing the profile page interface*
 
 ## Description
