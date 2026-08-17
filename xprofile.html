@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Thomas Tunde - Profile</title>
+    <title>Thomas Tunde - x Profile</title>
     <meta name="description" content="Profile page of Thomas Tunde on a Twitter."/>
     <style>
         :root {
@@ -209,7 +209,7 @@
                 <div class="profile-name">Thomas Tunde</div>
                 <div class="profile-username">@thomastundeo</div>
                 <div class="profile-bio">
-                    Software engineer, Building cool things. Coco 🦮 & Shelby 🐕 my realest buddies.
+                    Software engineer, Building cool things. Coco 🦮 & Shelby 🐕, my realest buddies.
             
                 </div>
             </div>
@@ -224,7 +224,7 @@
                 <span class="stat-label">Followers</span>
             </div>
             <div class="stat">
-                <span class="stat-number">50</span>
+                <span class="stat-number">52k</span>
                 <span class="stat-label">Likes</span>
             </div>
         </div>
@@ -282,7 +282,7 @@ document.addEventListener("DOMContentLoaded", function () {
             let count = parseInt(this.getAttribute("data-count")) || 0;
             count++;
             this.setAttribute("data-count", count);
-            // Format count: if >= 1000 show as x.xk
+           
             const display =
                 count >= 1000
                     ? (count / 1000).toFixed(1).replace(/\.0$/, "") + "k"
